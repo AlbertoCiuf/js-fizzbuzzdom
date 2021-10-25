@@ -1,0 +1,32 @@
+body {
+  background-color: #0D3B4C;
+}
+
+h1 {
+  font-size: 60px;
+  font-weight: bold;
+  color: white;
+
+}
+
+.box {
+  height: 80px;
+  width: 80px;
+  margin: 10px;
+  background-color: #2B89B2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.by3 {
+  background-color: #4AD6A0;
+}
+
+.by5 {
+  background-color: #FBD167;
+}
+
+.by3and5 {
+  background-color: #F0466F;
+}
